@@ -27,7 +27,7 @@ synthetic.csv # Synthetic data produced by our custom FinGan model
 
 ## code
 
-fin_gan_model.ipynb # Jupyter notebook for our custom FinGan model
+FinGan_model.ipynb # Jupyter notebook for our custom FinGan model
 
 Jupyter notebook for comparing synthetic data with requirements
 
